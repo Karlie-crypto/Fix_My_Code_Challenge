@@ -1,21 +1,13 @@
 
-# ALX SYSTEM ENGINEERING - DEVOPS
+# Fix_My_Code_Challenge
 
 <img alt="coding" width="784" height="350" src="https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png" />
 
-This repository contains programs created for the _**ALX Software Engineering** Programs._ Your girl here is ready for collaborations, Currently sharpening my knowledge and skills of C and shell scripting. Hey you! Come let's do hard things. The following is a specific list of projects :
+This repository contains the folder and files created for the _**FIX MY CODE CHALLENGE** Files._
+Fix my code is a new type of project, where we'll jump into an existing code base and fix it! This is done using pre-written repos as initial files for all solutions. I'm not coding anything new, just fixing the existing code base.
 
-- [0x00. Shell - Shell_Basics](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x00-shell_basics)
-- [0x01. Shell - Shell_Permissions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
-- [0x02. Shell - Shell_Redirections](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
-- [0x03. Shell - Shell_Variables_Expansions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
-- [0x04-loops_conditions_and_parsing](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
-- [command_line_for_the_win](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/command_line_for_the_win)
-- [0-iam_betty](https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/0-iam_betty)
-- [0x05-processes_and_signals](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
-- [0x06-regular_expressions](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
-- [0x07-networking_basics](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x07-networking_basics)
-- [0x08-networking_basics_2](https://github.com/Karlie-crypto/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)
+This was a project provided by ALX in which I was challenged with debugging various programs. The challenges spanned a variety of programming languages from C to Python to Javascript to Ruby and more, some of which I was familiar with, others of which I was not. The specific list of projects contained as follows: 
+- [Fix_My_Code_Challenge](https://github.com/Karlie-crypto/Fix_My_Code_Challenge/tree/main/0x00-challenge)
 
 ### AUTHOR:
 <details>

@@ -1,7 +1,7 @@
 
 # Fix_My_Code_Challenge
 
-<img alt="coding" width="784" height="350" src="https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png" />
+![undraw_mobile_development_re_wwsn.svg](https://user-images.githubusercontent.com/110098940/219950176-b01d033c-dde0-4727-879b-cfe5575af5e0.png)
 
 This repository contains the folder and files created for the _**FIX MY CODE CHALLENGE** Files._
 Fix my code is a new type of project, where we'll jump into an existing code base and fix it! This is done using pre-written repos as initial files for all solutions. I'm not coding anything new, just fixing the existing code base.

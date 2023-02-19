@@ -1,1 +1,1 @@
-# Solutions to fix the code challenges
+# Solutions to fix the and debbug the code challenges
